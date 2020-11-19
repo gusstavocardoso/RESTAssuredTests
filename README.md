@@ -1,3 +1,3 @@
 ## RESTAssuredTests
 
-Repositório para estudos de automação de testes em API, com REST Assured.
+Repositório para estudos de automação de testes em API, com REST Assured e JUnit.
